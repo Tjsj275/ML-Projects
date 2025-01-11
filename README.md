@@ -1,1 +1,1 @@
-This is a Sentiment Analysis model that takes in a movie review and classifies it as a positive or negative review. The model has been trained on a dataset taken from kaggle using TfidfVectorizer and Linear Support Vector Classifier.
+This is a Sentiment Analysis model that takes in a movie review and classifies it as a positive or negative review. The model has been trained on a dataset taken from kaggle. TfidfVectorizer and Linear Support Vector Classifier have been used to create the model.
